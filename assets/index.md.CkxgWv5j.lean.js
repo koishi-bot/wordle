@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as r,Z as t}from"./chunks/framework.CjQmOLIC.js";const m=JSON.parse('{"title":"介绍","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),l={name:"index.md"},o=t("",7),i=[o];function n(s,h,d,c,_,p){return r(),a("div",null,i)}const u=e(l,[["render",n]]);export{m as __pageData,u as default};
